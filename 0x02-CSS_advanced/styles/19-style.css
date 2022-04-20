@@ -159,7 +159,7 @@ a:active {
     margin-right: auto;
 }
 
-ul .row {
+ul.row {
     margin: 0;
     padding: 0;
     list-style-type: none;
