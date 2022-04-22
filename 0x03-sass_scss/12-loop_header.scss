@@ -1,0 +1,6 @@
+/* 12. Loop Headers */
+@for $counter from 1 through 5 {
+    h#{$counter} {
+        font-size: #{$counter}px;
+    }
+}
