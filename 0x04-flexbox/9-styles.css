@@ -390,10 +390,9 @@ ul.row {
 
 /* Section ABOUT US */
 
-.col-1-2 {
+.section-about-us [class^="col-"] {
     align-self: center;
 }
-
 
 /*** 4. CARD ***/
 
